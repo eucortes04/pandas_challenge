@@ -1,5 +1,5 @@
 # pandas_challenge
-NOTE: Please open .ipynb file in jupyter notebook as the github embedded view does not properly show .style.format()
+## NOTE: Please open .ipynb file in jupyter notebook as the github embedded view does not properly show .style.format()
 
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
 
