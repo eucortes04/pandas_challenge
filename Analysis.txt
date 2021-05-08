@@ -1,4 +1,6 @@
-##Analysis of Heroes of PyMology data 
+
+
+                                              Analysis of Heroes of PyMology data 
 
 Data showed the purchase history of 576 unique players. 780 purchases were made across 179 unique items resulting in $2,379.77 in total revenue.
 
